@@ -1,0 +1,8 @@
+{
+  "name": "Kestrel Equity",
+  "description": "AI-powered equity research terminal with live market telemetry, interactive technical charts, and search-grounded financial analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
